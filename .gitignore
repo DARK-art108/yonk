@@ -1,0 +1,4 @@
+qdrant.egg-info/
+dist/
+.env/
+__pycache__/
