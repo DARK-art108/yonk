@@ -2,4 +2,4 @@
 
 #### Usage:
 
-$ yonk create --name <projectname>
+$ yonk create --name projectname
