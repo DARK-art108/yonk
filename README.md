@@ -1,4 +1,4 @@
-# Yonk
+# Yonk 💥
 ## Yonk is a blazing fast CLI-utility for generating Data Science Project Templates.
 
 ### What Yonk does:
