@@ -13,5 +13,5 @@ $ ```pip install yonk``` --> To install Yonk
 
 ### Usage:
 
-$ ```yonk create --name projectname``` --> To create a project template with your project name
-$ ```yonk --help``` --> To get help
+1. $ ```yonk create --name projectname``` --> To create a project template with your project name
+2. $ ```yonk --help``` --> To get help
